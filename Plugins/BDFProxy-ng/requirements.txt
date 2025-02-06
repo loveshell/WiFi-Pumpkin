@@ -1,6 +1,6 @@
 libarchive-c==2.1
 python-magic==0.4.6
-mitmproxy==0.16
+mitmproxy==11.1.2
 pefile
 capstone
 hyperframe
